@@ -25,40 +25,6 @@ SERELLE là web app đặt lịch khám và quản lý người bệnh, được
 | Quy trình | Scrum, 2 sprint, mỗi sprint 7 ngày |
 | Hạn hoàn thành | 13/12/2026 |
 
-## Chức năng chính
-
-<table>
-<tr>
-<th width="50%" align="left">Bệnh nhân</th>
-<th width="50%" align="left">Bác sĩ</th>
-</tr>
-<tr valign="top">
-<td>
-<ul>
-<li>Đăng ký, đăng nhập và tạo hồ sơ bệnh nhân</li>
-<li>Đặt khám theo ngày, chuyên khoa hoặc bác sĩ</li>
-<li>Xác nhận bảo hiểm y tế và xem giá khám</li>
-<li>Thanh toán và nhận phiếu khám điện tử</li>
-<li>Xem lịch sử đặt khám, hủy phiếu và hoàn tiền</li>
-<li>Nhận email xác nhận, nhắc lịch khám và nhắc tái khám</li>
-<li>Xem hồ sơ sức khỏe và đặt nhắc lịch uống thuốc</li>
-<li>Tra cứu và tải hóa đơn GTGT</li>
-<li>Đọc bài viết sức khỏe</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Đăng nhập và xem hồ sơ bác sĩ</li>
-<li>Xem lịch làm việc và số bệnh nhân trong ngày</li>
-<li>Xem danh sách lịch hẹn và thông tin bệnh nhân</li>
-<li>Cập nhật trạng thái lượt khám</li>
-<li>Nhập kết quả khám, đơn thuốc và ảnh đính kèm</li>
-<li>Xem lịch sử khám và chỉ định tái khám</li>
-</ul>
-</td>
-</tr>
-</table>
-
 ## Công nghệ
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
